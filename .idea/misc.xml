@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-xxhdpi/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12447916666666667" />
+        <entry key="app/src/main/res/layout/common_main_nesting_pag_home_tab_item.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/common_main_nesting_pag_tab_item.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/common_main_nesting_tab_item.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/fragment_test.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/main_nesting_bottom_tab.xml" value="0.18489583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
